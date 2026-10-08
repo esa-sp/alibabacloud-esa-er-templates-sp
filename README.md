@@ -16,6 +16,16 @@
 - [Cache API](./cache_api/readme.md)
 - [SSR Demo](./simple_ssr/readme.md)
 
+## Pre-release Pages templates
+
+Additional templates for the pre-release environment:
+
+- [Personal portfolio (Alex)](./pages/esa-react-portfolio/README.md)
+- [Documentation](./pages/esa-react-docs/README.md)
+- [Data dashboard](./pages/esa-react-dashboard/README.md)
+
+Each folder is a standalone project with its own `esa.jsonc`. Use its folder name as `TemplateName`.
+
 ## LICENSE
 
 [LICENSE](./LICENSE)

@@ -1,0 +1,9 @@
+{
+  "name": "esa-react-dashboard",
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./dist",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}

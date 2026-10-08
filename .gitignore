@@ -4,3 +4,7 @@ node_modules
 src
 .DS_Store
 src/.DS_Store
+# Track source files in the additional pre-release templates.
+!pages/esa-react-portfolio/src/
+!pages/esa-react-docs/src/
+!pages/esa-react-dashboard/src/

@@ -1,5 +1,5 @@
 {
-  "name": "esa-react-docs",
+  "name": "astro-portfolio",
   "installCommand": "npm ci",
   "buildCommand": "npm run build",
   "assets": {
